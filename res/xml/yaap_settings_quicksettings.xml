@@ -63,11 +63,11 @@
         android:summaryOff="@string/qs_media_controls_summary_off"
         android:defaultValue="true" />
 
-    <!-- Gaming macro QS tile -->
+    <!-- Gaming macro QS tile 
     <Preference
         android:key="gaming_mode_tile"
         android:title="@string/gaming_mode_tile_title"
         android:summary="@string/gaming_mode_tile_summary"
         android:fragment="com.android.settings.gaming.GamingModeFragment" />
-
+    -->
 </PreferenceScreen>
